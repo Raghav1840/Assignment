@@ -1,0 +1,25 @@
+#Dispaly book user
+class User:
+    def __init__(self, user_id):
+        self.user_id = user_id
+        self.borrowed_books = []
+
+    def display_user_info(self):
+        print("User ID:", self.user_id)
+        print("Borrowed Books:", self.borrowed_books)
+
+    def add_book(self, book):
+        self.borrowed_books.append(book)
+    
+    def remove_book(self, book):
+        if book in self.borrowed_books:
+            self.borrowed_books.remove(book)
+        else:
+            print("Book not found in the borrowed list.")
+
+
+user1 = User(1)
+user1.add_book("Rich dad")
+user1.display_user_info()
+user1.remove_book("Poor dad")
+user1.display_user_info()
