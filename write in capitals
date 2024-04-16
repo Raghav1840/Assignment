@@ -1,0 +1,6 @@
+#write a program to ask the user to enter any sentence make a python 
+#funcation to convert the sentcese upeer case
+
+a = input('enter any sentence')
+
+print(a.upper())
