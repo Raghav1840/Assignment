@@ -1,0 +1,18 @@
+#make turtle drawing
+from turtle import*
+
+timmy = Turtle()
+timmy.shape("turtle")
+timmy.color("#86469C")
+timmy.forward(200)
+timmy.left(90)
+timmy.color("black")
+timmy.forward(200)
+timmy.left(90)
+timmy.forward(200)
+timmy.left(90)
+timmy.color("yellow")
+timmy.forward(200)
+screen = Screen()
+print(screen.canvheight)
+screen.exitonclick()
