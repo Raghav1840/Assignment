@@ -16,3 +16,5 @@ Enter_user&password: https://github.com/Raghav1840/Assignment/commit/2dea5529a27
 Print_book: https://github.com/Raghav1840/Assignment/commit/db100a32e90f9adc0b57728f6928a4d57fa2f86f 
 
 Write_in_capitals: https://github.com/Raghav1840/Assignment/commit/54848bdda47a69fe2123f7fec2a88be09ff0cd71 
+
+function: https://github.com/Raghav1840/Assignment/commit/34384e7103503c65a940a3aab27d2e856b8847e2
