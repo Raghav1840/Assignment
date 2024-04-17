@@ -1,15 +1,1 @@
 # Assignment
-class Book:
-    def __init__(self, book_id, title, status):
-        self.book_id = book_id
-        self.title = title
-        self.status = status
-
-    def display_book_details(self):
-        print("Book_id:",self.book_id)
-        print("Title:",self.title)
-        print("Staus:",self.status)
-
-book1 = Book(1,'Rich dad','borrowed')
-
-book1.display_book_details()
