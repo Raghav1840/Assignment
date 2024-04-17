@@ -1,0 +1,4 @@
+#write a pr to count a total number of worde in a sentence
+
+sent = 'today we are going to learn about python string funaction .'
+print(sent.count(' ')+1)
