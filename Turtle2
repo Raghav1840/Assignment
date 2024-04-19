@@ -5,10 +5,6 @@ timmy = Turtle()
 timmy.shape("turtle")
 timmy.color("#86469C")
 
-lady = Turtle()
-lady.color("#F2613F")
-lady.shape("circle")
-
 def drawSquare():
     timmy.forward(200)
     timmy.left(90)
