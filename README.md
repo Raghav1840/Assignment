@@ -32,6 +32,6 @@ Print_book: https://github.com/Raghav1840/Assignment/commit/db100a32e90f9adc0b57
 {This code defines a Book class with attributes like title, author, pages, and price. It has methods to get the price of a book and set a discount on its price. Additionally, there's a function to display book details.A book instance named Book1 is created with information about "Harry Potter" by "J.K Rowling", having 223 pages and priced at $22.50.The code then prints the author, title, and original price of Book1, followed by applying a discount of $6 to the book's price and printing the updated price.It's a simple demonstration of a book object and its functionalities like getting the price and applying discounts.}
 
 Write_in_capitals: https://github.com/Raghav1840/Assignment/commit/54848bdda47a69fe2123f7fec2a88be09ff0cd71 
-{}
+{This program prompts the user to input any sentence. Then, it converts the sentence to uppercase using the upper() function and prints the result. So, whatever the user inputs, it will be displayed in uppercase letters.}
 
 function: https://github.com/Raghav1840/Assignment/commit/34384e7103503c65a940a3aab27d2e856b8847e2
