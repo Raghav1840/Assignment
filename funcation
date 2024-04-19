@@ -4,4 +4,6 @@ class Person:
   self.age = 'age'
   self.hieght = 'hieght
 person1 = Person('raghav',22,6.1)
-person1()
+person1.name()
+person.age()
+person.hieght()
