@@ -9,7 +9,7 @@ Replace_text: https://github.com/Raghav1840/Assignment/commit/f3b3352128438f8ba2
 {code is defines a string variable named test with the value 'i like cat'. Then, the replace() method is called on this string with two arguments: 'cat', the word to be replaced, and 'dog', the word to replace it with. The replace() method substitutes all occurrences of 'cat' with 'dog' in the test string. The resulting string is then printed out. So, the output would be 'i like dog'.}
 
 Turtle_Drawing: https://github.com/Raghav1840/Assignment/commit/6295ea9bf53e82ca365b1b750a8123f9de882c7a 
-{}
+{code uses a turtle to draw shapes on the screen. First, it creates a turtle named "timmy" and sets its appearance to look like a turtle and its color to purple. Then, it makes "timmy" move forward and turn, repeating this to create a square. After that, it changes the color to yellow and moves "timmy" again to create the top side of the square. Finally, it prints the height of the canvas and waits for the user to click to close the window.}
 
 Turtle2_Drawing: https://github.com/Raghav1840/Assignment/commit/d1f263979547013d2707340257d63507a44598e7 
 
