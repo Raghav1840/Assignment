@@ -25,6 +25,8 @@ Displaying User Info: Displays user1's information, including the borrowed books
 Removing a Book: Attempts to remove a book named "Poor dad" from user1's borrowed list, followed by displaying user1's updated information.}
 
 Enter_user&password: https://github.com/Raghav1840/Assignment/commit/2dea5529a270df88da814cbeddbccac7e2b764c8 
+{ the user to input their username and password. Then, it compares these inputs with predefined values: username 'abc' and password 'student'.
+Next, it defines a function called check(), which prompts the user again to input their username and password. It checks if these inputs match the predefined values. If both the username and password match, it prints "welcome to college". Otherwise, it prints "unauthorized".}
 
 Print_book: https://github.com/Raghav1840/Assignment/commit/db100a32e90f9adc0b57728f6928a4d57fa2f86f 
 
