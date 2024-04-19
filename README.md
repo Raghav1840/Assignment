@@ -15,7 +15,14 @@ Turtle2_Drawing: https://github.com/Raghav1840/Assignment/commit/d1f263979547013
 {code uses a turtle named "timmy" to draw a square outline. First, it creates "timmy" and sets its appearance to look like a turtle with a purple color. Then, it defines a function called drawSquare() that tells "timmy" to move forward and turn to create the square outline. After defining the function, it calls it to make "timmy" draw the square. Then, it changes "timmy's" fill color to blue-green and prints the height of the canvas. Finally, it waits for the user to click to close the window.}
 
 Dispalybook_user: https://github.com/Raghav1840/Assignment/commit/e0ab692d9fd8d7332bdfe29875d4d1c83b200042 
-{}
+{User Class: Defines the User class with an __init__ method to initialize a user with a user ID and an empty list for borrowed books.
+display_user_info Method: Prints the user's ID and the list of borrowed books.
+add_book Method: Adds a book to the user's borrowed list.
+remove_book Method: Removes a book from the user's borrowed list if it exists in the list; otherwise, it prints a message indicating that the book is not found.
+User1 Instance: Creates an instance of the User class with user ID 1.
+Adding a Book: Adds a book named "Rich dad" to user1's borrowed list.
+Displaying User Info: Displays user1's information, including the borrowed books.
+Removing a Book: Attempts to remove a book named "Poor dad" from user1's borrowed list, followed by displaying user1's updated information.}
 
 Enter_user&password: https://github.com/Raghav1840/Assignment/commit/2dea5529a270df88da814cbeddbccac7e2b764c8 
 
