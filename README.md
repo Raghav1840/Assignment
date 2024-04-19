@@ -34,4 +34,4 @@ Print_book: https://github.com/Raghav1840/Assignment/commit/db100a32e90f9adc0b57
 Write_in_capitals: https://github.com/Raghav1840/Assignment/commit/54848bdda47a69fe2123f7fec2a88be09ff0cd71 
 {This program prompts the user to input any sentence. Then, it converts the sentence to uppercase using the upper() function and prints the result. So, whatever the user inputs, it will be displayed in uppercase letters.}
 
-function
+function: https://github.com/Raghav1840/Assignment/blob/main/funcation
