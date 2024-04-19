@@ -3,5 +3,5 @@ class Person:
   self.name = 'name'
   self.age = 'age'
   self.hieght = 'hieght
-book1 = Book('raghav',22,6.1)
-book1()
+person1 = Person('raghav',22,6.1)
+person1()
